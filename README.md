@@ -460,16 +460,5 @@ Some possible next steps for extending the project include:
 - Add environment variables for API configuration
 - Improve error handling for individual API operations
 
----
 
-## 👩‍💻 Author
-
-**Nasrin Rezaei**
-
-GitHub: [@nasrinrezaei](https://github.com/nasrinrezaei)
-
----
-
-## 📄 License
-
-This project was created as part of an internship project and is intended primarily for educational and demonstration purposes.
+This project was created as part of an internship project.
